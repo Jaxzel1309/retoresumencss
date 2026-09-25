@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    background-color:rgb(84, 205, 205);
+    padding: 25px;
+
+}
+header h1{
+    margin-bottom: 15px;
+}
+nav{
+    background-color: rgb(25, 25, 114);
+    padding: 20px;
+
+}
+nav a{
+    color: aliceblue;
+    margin-inline: 10px;
+}
+section{
+    margin: 15px;
+    border: 2px solid black;
+    padding: 30px;
+}
+section h2{
+    margin-bottom: 20px;
+}
+section p {
+    margin-bottom: 20px;
+}
+button{
+    background-color: blue;
+    padding: 7px;
+    color:azure;
+}
+footer{
+    background-color: rgb(171, 171, 171);
+    text-align: center;
+    padding: 25px;
+}
